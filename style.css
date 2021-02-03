@@ -1,0 +1,60 @@
+/* Body Element */
+body {
+    font-family: 'Lato', sans-serif;
+    border: 10px solid #BDC3C7;
+    border-radius: 10px;
+}
+
+/* H2 Elements */
+h2 {
+    letter-spacing: 3.2px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #3d3d3d;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+
+h2:hover {
+    letter-spacing: 30px;
+    text-align: center;
+}
+
+/* Paragraphs IDs */
+#one, #two, #four, #five {
+    border-bottom: 5px solid #BDC3C7;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+#one, #three, #four, #six {
+    text-align: right;
+}
+
+#two, #five {
+    text-align: center;
+}
+
+
+#three {
+    border-bottom: 10px solid #BDC3C7;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+#six {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* Fixing the Date */
+#date {
+    text-align: right;
+    color: #3498DB;
+    margin-right: 20px;
+    text-transform: uppercase;
+}
